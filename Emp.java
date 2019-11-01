@@ -1,5 +1,3 @@
-public class hello{
-	public static void main(String[] args) {
-		System.out.println("hello git!!!")
-	}
+public class Emp implements java.io.Serializable{
+	private Integer empno;
 }
