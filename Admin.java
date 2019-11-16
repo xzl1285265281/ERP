@@ -3,5 +3,6 @@ public class Admin{
 		private List<Emp> emps;
 		private Integer Number;
 		private String aid;
+		private Strig password;
 	}
 }
