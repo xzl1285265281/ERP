@@ -6,5 +6,8 @@ public class hello{
 		System.out.println("给他!");
 		System.out.println("给同1234!");
 		System.out.println("125252!");
+		System.out.println("给他!");
+		System.out.println("给同1234!");
+		System.out.println("125252!");
 	}
 }
